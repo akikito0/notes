@@ -62,7 +62,7 @@ Toothpaste, soap and other hygiene articles can be bought at the destination or
 brought with you, it's up to you.
 
 And you don't need sunglasses or sunscreen. See my page on
-[Modern dangers](/health/modern-dangers.md).
+[Modern dangers](modern-dangers.md).
 
 **But how am I supposed to survive with only three sets of clothing?**
 
