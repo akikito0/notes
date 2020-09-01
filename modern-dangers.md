@@ -31,7 +31,8 @@ nearly enough time to learn about the long term effects.
   [zinc oxide](https://twitter.com/Grimhood/status/1286091082397147136) paste
   or coconut oil.
 
-[Extra info.](https://www.mitohealth.ca/most-sunscreens-are-terrible/)
+[More info](https://www.mitohealth.ca/most-sunscreens-are-terrible/)
+/ [mirror](page-sunscreen.html) (download and open in browser).
 
 ## Sunglasses
 
@@ -40,9 +41,8 @@ Do not use sunglasses (unless you need them to drive safely).
 You don't need them. They will just make your vision worse and weaken the
 signals that enforce a healthy circadian rhythm. Also, they're antisocial.
 
-[More info.](https://medium.com/@veritasnaut/sunglasses-are-killing-you-dbadb93f935d)
-If the link is dead, see [page-sunglasses.html](page-sunglasses.html)
-(a local copy of the M\*dium page).
+[More info](https://medium.com/@veritasnaut/sunglasses-are-killing-you-dbadb93f935d)
+/ [mirror](page-sunglasses.html) (download and open in browser).
 
 ## Shampoo
 
@@ -54,9 +54,8 @@ brittle.
 
 Your scalp also absorbs whatever industrial chemicals the schampoo contains.
 
-[Great info plus troubleshooting and alternatives](https://www.reddit.com/r/NoPoo/wiki/index).
-If the link is dead, see the [page-nopoo-wiki.html](page-nopoo-wiki.html)
-(a copy of the r\*ddit page).
+[More info](https://www.reddit.com/r/NoPoo/wiki/index).
+/ [mirror](page-nopoo-wiki.html) (download and open in browser).
 
 ## Porn
 
