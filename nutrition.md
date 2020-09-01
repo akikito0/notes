@@ -10,7 +10,7 @@
   - [Foods that alleviate symptoms](#foods-that-alleviate-symptoms)
   - [Foods that worsen symptoms](#foods-that-worsen-symptoms)
 - [Where to buy stuff](#where-to-buy-stuff)
-  - [Internationally](#international)
+  - [Internationally](#internationally)
 
 ## What to eat
 
@@ -45,7 +45,8 @@
     - Topically: dissolve 100-200 g in 0.5L spray bottle, apply on skin.
     - [Some info](https://twitter.com/Grimhood/status/1131597125245067264).
 - **Sea salt** - gray (preferrably celtic)
-- **Boron** - 3-5 mg daily, or 10 mg 3 days a week.
+- **Glycine** - tsp before bed; recovery, sleep depth, vivid dreams
+- **Boron** - 3-5 mg daily, or 10 mg 3 days a week
 - **Potassium chloride**
 - **Sodium chloride**
 - **Creatine** - for performance, [well researched](https://examine.com/supplements/creatine/)
