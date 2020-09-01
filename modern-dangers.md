@@ -2,7 +2,7 @@
 
 First, a few premises to keep in mind.
 
-- Your skin absorbs what apply to it.
+- Your skin absorbs what you put on it.
 - Be wary of modern inventions.
 - Much of the advice below is only effective if you already follow my [nutrition advice](nutrition.md). For instance, if you avoid using suncreen but your diet is shit, you will likely burn yourself.
 
