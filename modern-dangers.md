@@ -62,4 +62,4 @@ If the link is dead, see the [page-nopoo-wiki.html](page-nopoo-wiki.html)
 
 Do not watch porn.
 
-It makes you a cuck and a voyeur. It puts you in the role of a passive observer.
+It makes you a cuck and a voyeur. It puts you into the role of passive observer.
