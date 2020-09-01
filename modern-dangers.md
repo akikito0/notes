@@ -1,4 +1,4 @@
-# General health notes
+# Modern dangers
 
 First, a few premises to keep in mind.
 
