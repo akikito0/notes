@@ -34,24 +34,24 @@ So if you're going to a beach town obviously also pack swimwear, duh (or better
 yet, find shorts that double as swimwear). If you're a photographer bring your
 camera. And so on.
 
-- Clothing (each bullet point includes the worn item):
+- **Clothing** (wear one item from each bullet point):
   - 3 x Shirts
   - 3 x Underwear
   - 3 x Socks
   - 1 x Pants
   - 1 x Shoes
   - Adjust layers according to climate
-- Technology & Entertainment
+- **Technology & Entertainment**
   - Phone – for GPS, ongoing trip planning and connecting with people you meet
   - Earbuds – not essential, I like to be part of the surroundings
   - Book or E-reader – good for long transports
   - Necessary chargers
-- Documents
+- **Documents**
   - Wallet + Cash
   - Passport
   - Small pen – always useful
   - Small notebook – optional
-- Hygiene & misc
+- **Hygiene & Miscellaneous**
   - Dry bag _or_ sink stopper – see [Laundry](#laundry) section
   - Clothesline – ditto
   - Eye mask
@@ -63,6 +63,12 @@ brought with you, it's up to you.
 
 And you don't need sunglasses or sunscreen. See my page on
 [Modern dangers](modern-dangers.md).
+
+**How big a backpack do I need?**
+
+For the above list, no more than 15L. But you'll likely want to pack more than
+what's in there. There are many packing list examples on the "onebag" links
+above. You shouldn't need more than 30L, in my opinion.
 
 **But how am I supposed to survive with only three sets of clothing?**
 
