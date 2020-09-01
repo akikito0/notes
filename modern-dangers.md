@@ -54,7 +54,7 @@ brittle.
 
 Your scalp also absorbs whatever industrial chemicals the schampoo contains.
 
-[More info](https://www.reddit.com/r/NoPoo/wiki/index).
+[More info](https://www.reddit.com/r/NoPoo/wiki/index)
 / [mirror](page-nopoo-wiki.html) (download and open in browser).
 
 ## Porn
