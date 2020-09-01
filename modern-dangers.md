@@ -49,7 +49,7 @@ signals that enforce a healthy circadian rhythm. Also, they're antisocial.
 Do not use schampoo.
 
 The sulfates in schampoo, while removing dirt from your hair and scalp, also
-strips them of natural oils. This dries out your hair and makes it frizzy and
+strip them of natural oils. This dries out your hair and makes it frizzy and
 brittle.
 
 Your scalp also absorbs whatever industrial chemicals the schampoo contains.
