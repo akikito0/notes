@@ -16,7 +16,8 @@
 
 ### Food
 
-- **Meat** - game and grass-fed red meats
+- **Meat** - game, grass-fed red meats, poultry
+- **Seafood** - fish, shellfish, bivalves
 - **Liver** - limit to 300-500g per week
 - **Egg** - raw yolk, cooked white
 - **Fruit** - no smoothies or juices
@@ -31,7 +32,7 @@
 - **Extra virgin coconut oil (EVCO)** - for cooking
 - **Extra virgin olive oil (EVOO)** - heat carefully
 - **Black seed oil** - not for cooking; see below
-- **Flax seed oil** (optional) - heat carefully
+- **Flax seed oil** - not for cooking
 
 ### Supplements
 
@@ -41,12 +42,13 @@
   - Magnesium glycinate pills
   - Magnesium chloride (hexahydrate), sometimes called Nigari salt
     - 12% elemental magnesium by weight.
-    - Orally: 5-10 g dissolved in water per day (spread out).
+    - Orally: 5-10 g dissolved in water per day (spread out). You can mask
+      the taste with a splash of apple cider vinegar.
     - Topically: dissolve 100-200 g in 0.5L spray bottle, apply on skin.
     - [Some info](https://twitter.com/Grimhood/status/1131597125245067264).
-- **Sea salt** - gray (preferrably celtic)
 - **Glycine** - tsp before bed; recovery, sleep depth, vivid dreams
 - **Boron** - 3-5 mg daily, or 10 mg 3 days a week
+- **Sea salt** - gray (preferrably celtic)
 - **Potassium chloride**
 - **Sodium chloride**
 - **Creatine** - for performance, [well researched](https://examine.com/supplements/creatine/)
@@ -79,14 +81,14 @@
 - Caffeine
 - Smoke
 - Flouride
-- Large quantities of vegetables
+- Vegetables high in oxalate
 
 ## Allergy relief
 
 ### Foods that alleviate symptoms
 
 - Anything that improves gut health
-- **Black seed oil** - cold pressed, obtained without solvent extraction; not for cooking
+- **Black seed oil** - cold pressed, obtained without solvent extraction
 - **Flax seed oil** - ditto
 - **Coconut oil** - cold pressed, extra virgin
 - **Honey** - preferably local
