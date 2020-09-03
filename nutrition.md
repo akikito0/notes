@@ -47,6 +47,7 @@
     - Topically: dissolve 100-200 g in 0.5L spray bottle, apply on skin.
     - [Some info](https://twitter.com/Grimhood/status/1131597125245067264).
 - **Glycine** - tsp before bed; recovery, sleep depth, vivid dreams
+- **Glutamine** - tsp before bed; gut health
 - **Boron** - 3-5 mg daily, or 10 mg 3 days a week
 - **Sea salt** - gray (preferrably celtic)
 - **Potassium chloride**
