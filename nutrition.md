@@ -82,7 +82,7 @@
 - Caffeine
 - Smoke
 - Flouride
-- Vegetables high in oxalate
+- Vegetables high in [oxalate](https://sallyknorton.com/oxalate-science/oxalate-basics/)
 
 ## Allergy relief
 
