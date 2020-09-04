@@ -1,5 +1,6 @@
 # Nutrition
 
+- [Introduction](#introduction)
 - [What to eat](#what-to-eat)
   - [Food](#food)
   - [Fats/oils](#fatsoils)
@@ -12,6 +13,20 @@
 - [Where to buy stuff](#where-to-buy-stuff)
   - [Internationally](#internationally)
 
+## Introduction
+
+Following the guidelines in this document should fix most major nutritional
+deficiencies and decrease inflammation – but do your own research, adjust to
+your own needs.
+
+Keep in mind that the source of your food matters. Also, usually there are
+alternatives to the items below that are local to your country or culture.
+If so, try to eat that. Eat like your ancestors have done for thousands of
+years, if possible.
+
+Use a service like [cronometer.com](https://cronometer.com) to figure out
+potential deficiencies.
+
 ## What to eat
 
 ### Food
@@ -20,23 +35,26 @@
 - **Seafood** - fish, shellfish, bivalves
 - **Liver** - limit to 300-500g per week
 - **Egg** - raw yolk, cooked white
-- **Fruit** - no smoothies or juices
 - **Sauerkraut** - gut health
 - **Kefir** - gut health
 - **Milk** - preferably unpasteurized, high fat, goat milk
+- **Fruit**
+  - No smoothies or juices.
+  - Choose fruits depending on what micronutrients you are lacking in your
+    diet. For instance, citrus fruits are high in vitamin C, pineapple is high
+    in vitamin C and manganese.
 
 ### Fats/oils
 
 - **Butter** - for cooking
 - **Tallow** - for cooking
 - **Extra virgin coconut oil (EVCO)** - for cooking
-- **Extra virgin olive oil (EVOO)** - heat carefully
+- **Extra virgin olive oil (EVOO)** - for cooking, but heat carefully
 - **Black seed oil** - not for cooking; see below
 - **Flax seed oil** - not for cooking
 
 ### Supplements
 
-- **Vitamin D3** - 5000 IU; but sunlight is preferable
 - **Zinc** - 50-100 mg (for men, half that for women)
 - **Magnesium** - 500-1000 mg
   - Magnesium glycinate pills
@@ -48,12 +66,13 @@
     - [Some info](https://twitter.com/Grimhood/status/1131597125245067264).
 - **Glycine** - tsp before bed; recovery, sleep depth, vivid dreams
 - **Glutamine** - tsp before bed; gut health
+- **Vitamin D3** - around 5000 IU; but sunlight is preferable
+- **Vitamin C** - from fruit or liver, not in ascorbic acid form
 - **Boron** - 3-5 mg daily, or 10 mg 3 days a week
 - **Sea salt** - gray (preferrably celtic)
 - **Potassium chloride**
 - **Sodium chloride**
 - **Creatine** - for performance, [well researched](https://examine.com/supplements/creatine/)
-- **Vitamin C** - immunity
 - **Black Seed Oil** - [research](https://twitter.com/Grimhood/status/1254703513134751746); [buy on iHerb](https://www.iherb.com/pr/Heritage-Store-Black-Seed-Oil-16-fl-oz-480-ml/71956)
 
 ### Miscellaneous
