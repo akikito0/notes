@@ -1,4 +1,4 @@
-# Diet and ancestry
+# Ancestry and diet
 
 ## Some essential European history
 
