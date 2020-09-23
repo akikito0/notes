@@ -63,6 +63,8 @@ Do not watch porn.
 
 It makes you a cuck and a voyeur. It puts you into the role of passive observer.
 
+[More info](https://twitter.com/thuletide/status/1249437488579579905).
+
 ## Non-bioavailable copper and iron
 
 Just a collection of links for now.
