@@ -11,7 +11,7 @@ First, a few premises to keep in mind.
 Do not use sunscreen.
 
 Commercial sunscreen is full of endocrine disrupting chemicals that get absorbed
-by your skin, and end up[accumulating in your body at high levels](https://www.pharmacist.com/article/sunscreen-chemicals-accumulate-body-high-levels).
+by your skin, and end up [accumulating in your body at high levels](https://www.pharmacist.com/article/sunscreen-chemicals-accumulate-body-high-levels).
 
 But we don't even need to turn to science in order to reject sunscreen.
 Commercial sunscreen has been around for less than 100 years which isn't
