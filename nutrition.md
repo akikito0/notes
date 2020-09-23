@@ -35,6 +35,7 @@ potential deficiencies.
 - **Seafood** - fish, shellfish, bivalves
 - **Liver** - limit to 300-500g per week
 - **Egg** - raw yolk, cooked white
+- **Egg** - raw, [do not mix with sugars](https://twitter.com/Grimhood/status/1285170461165277187)
 - **Sauerkraut** - gut health
 - **Kefir** - gut health
 - **Milk** - preferably unpasteurized, high fat, goat milk
