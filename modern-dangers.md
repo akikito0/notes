@@ -11,7 +11,7 @@ First, a few premises to keep in mind.
 Do not use sunscreen.
 
 Commercial sunscreen is full of endocrine disrupting chemicals that get absorbed
-by your skin, and end up [accumulating in your body at high levels](https://www.pharmacist.com/article/sunscreen-chemicals-accumulate-body-high-levels).
+by your skin, and end up[accumulating in your body at high levels](https://www.pharmacist.com/article/sunscreen-chemicals-accumulate-body-high-levels).
 
 But we don't even need to turn to science in order to reject sunscreen.
 Commercial sunscreen has been around for less than 100 years which isn't
@@ -62,3 +62,27 @@ Your scalp also absorbs whatever industrial chemicals the schampoo contains.
 Do not watch porn.
 
 It makes you a cuck and a voyeur. It puts you into the role of passive observer.
+
+## Non-bioavailable copper and iron
+
+Just a collection of links for now.
+
+**Twitter threads**
+
+- [Anemia](https://twitter.com/Grimhood/status/1307785622933762049)
+- [Women and anemia](https://twitter.com/Grimhood/status/1298516456787697664)
+- [The Yin and Yang of Copper During Infection](https://twitter.com/Grimhood/status/1307337483747618823)
+- [Hair loss is caused by Free Labile Iron Accumulation](https://twitter.com/Grimhood/status/1306941811684851714)
+- [Iron - cereal example](https://twitter.com/Grimhood/status/1307944527060070400)
+- [IP6 to get rid of excess iron?](https://twitter.com/Grimhood/status/1287457228144775170)
+
+**Other**
+
+- [Free iron as a cause of inflammation](https://www.multiflora-herbs.com/blogs/news/free-iron-as-a-cause-of-inflammation)
+- [Understanding copper toxicity](https://www.multiflora-herbs.com/blogs/news/the-dark-side-of-copper)
+
+## For women: contraceptive pills and IUDs
+
+They cause copper-iron dyshomeostasis. See
+[this thread](https://twitter.com/Grimhood/status/1308544875332136960)
+and what was retweeted.
