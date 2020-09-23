@@ -2,7 +2,7 @@
 
 ## Buteyko
 
-- [Buteyko-Breathing-Guide.pdf](Buteyko-Breathing-Guide.pdf)
+- [Buteyko-Breathing-Guide.pdf](resources/Buteyko-Breathing-Guide.pdf)
 
 ### How to do Buteyko breathing
 

@@ -32,7 +32,7 @@ nearly enough time to learn about the long term effects.
   or coconut oil.
 
 [More info](https://www.mitohealth.ca/most-sunscreens-are-terrible/)
-/ [mirror](page-sunscreen.html) (download and open in browser).
+/ [mirror](resources/page-sunscreen.html) (download and open in browser).
 
 ## Sunglasses
 
@@ -42,7 +42,7 @@ You don't need them. They will just make your vision worse and weaken the
 signals that enforce a healthy circadian rhythm. Also, they're antisocial.
 
 [More info](https://medium.com/@veritasnaut/sunglasses-are-killing-you-dbadb93f935d)
-/ [mirror](page-sunglasses.html) (download and open in browser).
+/ [mirror](resources/page-sunglasses.html) (download and open in browser).
 
 ## Shampoo
 
@@ -55,7 +55,7 @@ brittle.
 Your scalp also absorbs whatever industrial chemicals the schampoo contains.
 
 [More info](https://www.reddit.com/r/NoPoo/wiki/index)
-/ [mirror](page-nopoo-wiki.html) (download and open in browser).
+/ [mirror](resources/page-nopoo-wiki.html) (download and open in browser).
 
 ## Porn
 
