@@ -55,7 +55,16 @@ potential deficiencies.
 
 ### Supplements
 
-- **Zinc** - 50-100 mg (for men, half that for women)
+Not all of these are "necessary" and many can be obtained in good doses from
+food. In my opinion, magnesium is most important to supplement. Zinc too but
+it's preferable to get zinc from foods.
+
+All amino acids are found in meat. Bone broth is high in collagen (and thus
+glycine). Glutamine will repair your gut lining—good if you suffer from IBS.
+Vitamin D does not replace sunlight—go outside! Avoid
+[iron](https://twitter.com/search?q=from%3Agrimhood%20free%20iron&src=typed_query)
+supplements. Salt your food liberally. Eat liver.
+
 - **Magnesium** - 11 mg elemental magnesium per kg of bodyweight
   - Magnesium glycinate pills
   - Magnesium chloride (hexahydrate), sometimes called bittern or nigari salt
@@ -64,10 +73,11 @@ potential deficiencies.
       the taste with a splash of apple cider vinegar.
     - Topically: dissolve 100-200 g in 0.5L spray bottle, apply on skin.
     - [Some info](https://twitter.com/Grimhood/status/1131597125245067264).
+- **Zinc** - 50-100 mg (for men, half that for women)
 - **Glycine** - tsp before bed; recovery, sleep depth, vivid dreams
 - **Glutamine** - tsp before bed; gut health
-- **Vitamin D3** - around 5000 IU; but sunlight is preferable
-- **Vitamin C** - from fruit or liver, not in ascorbic acid form
+- **Vitamin D3** - around 5000 IU; but sunlight is strongly preferable
+- **Vitamin C** - from fruit or liver; _not_ as ascorbic acid
 - **Boron** - 3-5 mg daily, or 10 mg 3 days a week
 - **Sea salt** - gray (preferrably celtic)
 - **Potassium chloride**
