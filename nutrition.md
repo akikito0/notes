@@ -56,9 +56,9 @@ potential deficiencies.
 ### Supplements
 
 - **Zinc** - 50-100 mg (for men, half that for women)
-- **Magnesium** - 500-1000 mg
+- **Magnesium** - 11 mg elemental magnesium per kg of bodyweight
   - Magnesium glycinate pills
-  - Magnesium chloride (hexahydrate), sometimes called Nigari salt
+  - Magnesium chloride (hexahydrate), sometimes called bittern or nigari salt
     - 12% elemental magnesium by weight.
     - Orally: 5-10 g dissolved in water per day (spread out). You can mask
       the taste with a splash of apple cider vinegar.
