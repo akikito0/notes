@@ -1,10 +1,46 @@
 # Modern dangers
 
-First, a few premises to keep in mind.
+On this page you'll find notes about often overlooked long-term dangers in the
+modern world.
 
-- Your skin absorbs what you put on it.
-- Be wary of modern inventions.
-- Much of the advice below is only effective if you already follow my [nutrition advice](nutrition.md). For instance, if you avoid using suncreen but your diet is shit, you will likely burn yourself.
+Keep in mind that much of the advice below is only effective if you
+follow my [nutrition advice](nutrition.md). For instance, if you avoid using
+suncreen but your diet is shit, you will likely burn yourself.
+
+## Sections
+
+- [Blue light](#blue-light)
+- [Sunscreen](#sunscreen)
+- [Sunglasses](#sunglasses)
+- [Shampoo](#shampoo)
+- [Porn](#porn)
+- [Non-bioavailable copper and iron](#non-bioavailable-copper-and-iron)
+- [For women: contraceptive pills and IUDs](#for-women-contraceptive-pills-and-iuds)
+
+## Blue light
+
+Avoid [blue light](https://en.wikipedia.org/wiki/Biological_effects_of_high-energy_visible_light)
+from artificial light sources and monitors as much as possible.
+
+- Blue light is a contributing factor in myopia (near-sightedness) and
+  [macular degeneration](https://en.wikipedia.org/wiki/Macular_degeneration).
+- Blue light can cause eye strain and headaches.
+- Some [claim](https://twitter.com/Grimhood/status/1301510180450959360) that
+  high-energy blue light and lack of sunlight causes free iron to accumulate in
+  and around your eyes, which is very bad. Some
+  [research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2718721/)
+  on free iron and eye disease.
+- Exposure to blue light at night inhibits melatonin production which disrupts
+  your circadian rhythm and poor sleep, which leads to a number of health
+  problems.
+- There are likely many other negative effects of blue light that I don't feel
+  confident mentioning here.
+
+Here is some [publicly available research on blue light and eye damage](https://www.ncbi.nlm.nih.gov/pmc/?term=blue+light+eye+damage).
+
+Avoid the damage caused by blue light by installing a blue light filter on your
+computer and phone (such as [f.lux](https://justgetflux.com/)), avoiding screens
+as much as possible, and getting plenty of sunlight.
 
 ## Sunscreen
 
@@ -32,7 +68,7 @@ nearly enough time to learn about the long term effects.
   or coconut oil.
 
 [More info](https://www.mitohealth.ca/most-sunscreens-are-terrible/)
-/ [mirror](resources/page-sunscreen.html) (download and open in browser).
+/ [mirror](page-sunscreen.html) (download and open in browser).
 
 ## Sunglasses
 
@@ -42,7 +78,7 @@ You don't need them. They will just make your vision worse and weaken the
 signals that enforce a healthy circadian rhythm. Also, they're antisocial.
 
 [More info](https://medium.com/@veritasnaut/sunglasses-are-killing-you-dbadb93f935d)
-/ [mirror](resources/page-sunglasses.html) (download and open in browser).
+/ [mirror](page-sunglasses.html) (download and open in browser).
 
 ## Shampoo
 
@@ -55,7 +91,7 @@ brittle.
 Your scalp also absorbs whatever industrial chemicals the schampoo contains.
 
 [More info](https://www.reddit.com/r/NoPoo/wiki/index)
-/ [mirror](resources/page-nopoo-wiki.html) (download and open in browser).
+/ [mirror](page-nopoo-wiki.html) (download and open in browser).
 
 ## Porn
 
@@ -74,7 +110,8 @@ Just a collection of links for now.
 - [Anemia](https://twitter.com/Grimhood/status/1307785622933762049)
 - [Women and anemia](https://twitter.com/Grimhood/status/1298516456787697664)
 - [The Yin and Yang of Copper During Infection](https://twitter.com/Grimhood/status/1307337483747618823)
-- [Hair loss is caused by Free Labile Iron Accumulation](https://twitter.com/Grimhood/status/1306941811684851714)
+- [Free iron contributes to hair loss](https://twitter.com/Grimhood/status/1306941811684851714)
+- [Free iron contributes to hair graying](https://twitter.com/Grimhood/status/1307230388440317953)
 - [Iron - cereal example](https://twitter.com/Grimhood/status/1307944527060070400)
 - [IP6 to get rid of excess iron?](https://twitter.com/Grimhood/status/1287457228144775170)
 
