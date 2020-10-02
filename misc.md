@@ -65,8 +65,9 @@ their own gain at your expense—while others function symbiotically.
 What you want to do is to stop introducting and feeding parasitic microbiota,
 and start introducting and feeding symbiotic microbiota. This can be done in
 a number of ways but the simplest one is via diet. In order to starve the former
-I suggest following a diet similar to the one oulined [here](nutrition.md) and
-to regularly eat probiotic food, such as sauerkraut or kefir
+I suggest following a diet similar to the one oulined [here](nutrition.md), and
+in order to introduce the latter I suggest regularly eating probiotic food,
+such as sauerkraut or kefir
 ([more here](https://en.wikipedia.org/wiki/List_of_fermented_foods)). Just
 beware of _pasteurized_ fermented foods; pasteurization kills most bacteria!
 But assert the quality of the food and its preparation, don't get sick.
