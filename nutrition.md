@@ -38,9 +38,9 @@ potential deficiencies.
 - **Egg** - raw, [do not mix with sugars](https://twitter.com/Grimhood/status/1285170461165277187)
 - **Sauerkraut** - gut health
 - **Kefir** - gut health
-- **Milk** - preferably unpasteurized, high fat, goat milk
+- **Milk** - preferably unpasteurized, high fat, possibly even goat milk if locally available
 - **Fruit**
-  - No smoothies or juices.
+  - No smoothies or juices; we are made to consume fruits _whole_.
   - Choose fruits depending on what micronutrients you are lacking in your
     diet. For instance, citrus fruits are high in vitamin C, pineapple is high
     in vitamin C and manganese.
@@ -57,14 +57,11 @@ potential deficiencies.
 ### Supplements
 
 Not all of these are "necessary" and many can be obtained in good doses from
-food. In my opinion, magnesium is most important to supplement. Zinc too but
-it's preferable to get zinc from foods.
+food. Magnesium is the most important one to supplement.
 
-All amino acids are found in meat. Bone broth is high in collagen (and thus
-glycine). Glutamine will repair your gut lining—good if you suffer from IBS.
-Vitamin D does not replace sunlight—go outside! Avoid
-[iron](https://twitter.com/search?q=from%3Agrimhood%20free%20iron&src=typed_query)
-supplements. Salt your food liberally. Eat liver.
+Meat contains all essential amino acids. Bone broth is high in collagen and thus
+glycine. Glutamine will repair your gut lining—good if you suffer from IBS.
+Salt your food liberally. Eat liver and wild caught seafood.
 
 - **Magnesium** - 11 mg elemental magnesium per kg of bodyweight
   - Magnesium glycinate pills
@@ -74,29 +71,46 @@ supplements. Salt your food liberally. Eat liver.
       the taste with a splash of apple cider vinegar.
     - Topically: dissolve 100-200 g in 0.5L spray bottle, apply on skin.
     - [Some info](https://twitter.com/Grimhood/status/1131597125245067264).
-- **Zinc** - 50-100 mg (for men, half that for women)
-- **Glycine** - tsp before bed; recovery, sleep depth, vivid dreams
-- **Glutamine** - tsp before bed; gut health
-- **Vitamin D3** - around 5000 IU; but sunlight is strongly preferable
-- **Vitamin C** - from fruit or liver; _not_ as ascorbic acid
+- **Glycine** - recovery, sleep depth, vivid dreams; supplement or eat bone broth
+- **Glutamine** - gut health
 - **Boron** - 3-5 mg daily, or 10 mg 3 days a week
-- **Sea salt** - gray (preferrably celtic)
+- **Sodium chloride** - rock salt, (Celtic) sea salt; [be mindful of source](https://www.theguardian.com/environment/2017/sep/08/sea-salt-around-world-contaminated-by-plastic-studies)
 - **Potassium chloride**
-- **Sodium chloride**
 - **Creatine** - for performance, [well researched](https://examine.com/supplements/creatine/)
 - **Black Seed Oil** - [research](https://twitter.com/Grimhood/status/1254703513134751746); [buy on iHerb](https://www.iherb.com/pr/Heritage-Store-Black-Seed-Oil-16-fl-oz-480-ml/71956)
 
+**A note on supplements:** There are some commonly used supplements I will
+**not** recommend, because I have read conflicting material on them and their
+use is not supported by time and tradition. I'm not recommending against the
+minerals/vitamins themselves, only against them being supplemented. They are:
+
+- **Vitamin C** - See [here](https://twitter.com/Grimhood/status/1291086529163534336).
+  Get vitamin C from fruit and liver, _not_ as ascorbic acid or citric acid.
+- **Vitamin D3** - Increases calcium, depletes magnesium, potassium and retinol.
+  Get vitamin D from sunlight and seafood, eggs and cod liver [oil] instead.
+- **Iron** - All supplements and plant sources of iron have low bioavailability,
+  and thus accumulates in your blood to a greater extent than heme iron. Avoid
+  [iron](https://twitter.com/search?q=from%3Agrimhood%20free%20iron&src=typed_query)
+  supplements and get your iron from meat. Also see the section about iron in
+  the [modern dangers](modern-dangers.md#non-bioavailable-copper-and-iron) page.
+- **Omega-3** - Capsules / fish oil easily turns rancid. Get omega-3 (DHA/EPA)
+  from seafood and bivalves, preferably wild caught.
+- **Zinc** - Creates copper/iron imbalance. Get zinc from red meat and bivalves.
+
 ### Miscellaneous
 
+- **Raw apple cider vinegar (with "mother")** - antioxidant, antimicrobial
+- **Raw honey** - anti-allergenic, and more; do not heat
 - **Lemon** - immunity
 - **Ginger** - immunity
-- **Cayenne**
-- **Turmeric**
+- **Cayenne** - I heard this is good, but do your own research
+- **Turmeric** - same as above
 - **Garlic, [garlic skin broth](https://skillet.lifehacker.com/use-papery-garlic-skins-to-give-broth-big-flavor-1797726954)** - immunity
-- **Raw apple cider vinegar (with "mother")** - antioxidant, antimicrobial
-- **Raw honey** - anti-allergenic, and more
 - **Red onion** - with food
-- **Raw beetroot juice** - iron, folate, antioxidants, and more
+- **Raw beetroot juice** - iron, folate, antioxidants, and more.
+  - **Note!** Beets contain non-heme iron (bad), but at the same time they
+    serve an important role in traditional cuisine, especially in Europe,
+    and have other benefits.
   - Put raw beetroot and water in blender, filter through fine strainer.
   - [https://www.youtube.com/watch?v=vzU0YA-MLFc](https://www.youtube.com/watch?v=vzU0YA-MLFc)
 
