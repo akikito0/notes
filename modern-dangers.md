@@ -68,7 +68,7 @@ nearly enough time to learn about the long term effects.
   or coconut oil.
 
 [More info](https://www.mitohealth.ca/most-sunscreens-are-terrible/)
-/ [mirror](page-sunscreen.html) (download and open in browser).
+/ [mirror](resources/page-sunscreen.html) (download and open in browser).
 
 ## Sunglasses
 
@@ -78,7 +78,7 @@ You don't need them. They will just make your vision worse and weaken the
 signals that enforce a healthy circadian rhythm. Also, they're antisocial.
 
 [More info](https://medium.com/@veritasnaut/sunglasses-are-killing-you-dbadb93f935d)
-/ [mirror](page-sunglasses.html) (download and open in browser).
+/ [mirror](resources/page-sunglasses.html) (download and open in browser).
 
 ## Shampoo
 
@@ -91,7 +91,7 @@ brittle.
 Your scalp also absorbs whatever industrial chemicals the schampoo contains.
 
 [More info](https://www.reddit.com/r/NoPoo/wiki/index)
-/ [mirror](page-nopoo-wiki.html) (download and open in browser).
+/ [mirror](resources/page-nopoo-wiki.html) (download and open in browser).
 
 ## Porn
 
@@ -100,6 +100,15 @@ Do not watch porn.
 It makes you a cuck and a voyeur. It puts you into the role of passive observer.
 
 [More info](https://twitter.com/thuletide/status/1249437488579579905).
+
+## Mouthbreathing
+
+Mouthbreathing means using your mouth instead of your nose to breathe.
+The habit usually begins as an infant and it causes a myriad of health problems
+later on in life.
+
+More extensive information is available on the [breathing page](breathing.md).
+You might be mouthbreathing without being aware of it. Check out the page.
 
 ## Non-bioavailable copper and iron
 
