@@ -3,11 +3,14 @@
 On this page I talk about breathing: mouthbreathing, nosebreathing, breathing
 exercises. I am by no means an expert on this matter, so do your own research.
 
+Here's a good article to get your started on breathing:
+[How to Breathe Right](https://medium.com/@BreatheLess/how-to-breathe-right-420d054e3047).
+
 ## Mouthbreathing
 
-Mouthbreathing means using your nose instead of your mouth to breathe, unless
-absolutely necessary. The habit usually begins as an infant and it causes a
-myriad of health problems later on in life.
+Mouthbreathing means using your mouth instead of your nose to breathe.
+The habit usually begins as an infant and it causes a myriad of health problems
+later on in life.
 
 Mouthbreathing makes you expend too much CO2 which causes hypocapnia and tissue
 hypoxia. As opposed to what is commonly believed, CO2 is much more than a waste
@@ -16,8 +19,9 @@ product of respiration; in fact, it's vital for your body to function properly.
 Not solely, but to a significant degree, mouthbreathing is responsible for many
 common health problems today, including narrow airways, nasal congestion, runny
 nose, allergies, asthma, bad breath, dry cough, snoring, fatigue, hiccups, acid
-reflux, heartburn, poor palate development, recessive chin, Long Face Syndrome,
-fibromyalgia, pneumonia, bronchitis, and more.
+reflux, heartburn, poor palate development,
+[recessive](resources/mouthbreathing-1.png) [chin](resources/mouthbreathing-2.png),
+Long Face Syndrome, fibromyalgia, pneumonia, bronchitis, and more.
 
 Another point worthy of notice is that your nose heats up the air you breathe
 and filters it. This can protect you from airborne allergenic particles, dust,
