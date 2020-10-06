@@ -35,9 +35,11 @@ potential deficiencies.
 - **Seafood** - fish, shellfish, bivalves
 - **Liver** - limit to 300-500g per week
 - **Egg** - raw yolk, cooked white
-- **Egg** - raw, [do not mix with sugars](https://twitter.com/Grimhood/status/1285170461165277187)
-- **Sauerkraut** - gut health; must be unpasteurized; [recipe](misc.md#sauerkraut)
-- **Kefir** - gut health
+- **Egg** - fully raw, [do not mix with sugars](https://twitter.com/Grimhood/status/1285170461165277187)
+- **Lacto-fermented foods**
+  - Amazing for [gut health](misc.md#gut--brain-axis-gut-microbiota).
+  - Must be unpasteurized.
+  - Examples are [sauerkraut](misc.md#sauerkraut), kefir and kimchi.
 - **Milk** - preferably unpasteurized, high fat, possibly even goat milk if locally available
 - **Fruit**
   - No smoothies or juices; we are made to consume fruits _whole_.
@@ -79,23 +81,22 @@ Salt your food liberally. Eat liver and wild caught seafood.
 - **Creatine** - for performance, [well researched](https://examine.com/supplements/creatine/)
 - **Black Seed Oil** - [research](https://twitter.com/Grimhood/status/1254703513134751746); [buy on iHerb](https://www.iherb.com/pr/Heritage-Store-Black-Seed-Oil-16-fl-oz-480-ml/71956)
 
-**A note on supplements:** There are some commonly used supplements I will
-**not** recommend, because I have read conflicting material on them and their
-use is not supported by time and tradition. I'm not recommending against the
-minerals/vitamins themselves, only against them being supplemented. They are:
+**A note on supplements:** There are some commonly used supplements I can
+**not** comfortably recommend. They are:
 
 - **Vitamin C** - See [here](https://twitter.com/Grimhood/status/1291086529163534336).
-  Get vitamin C from fruit and liver, _not_ as ascorbic acid or citric acid.
+  Instaed, get vitamin C from fruit and liver, _not_ as ascorbic acid or citric acid.
 - **Vitamin D3** - Increases calcium, depletes magnesium, potassium and retinol.
-  Get vitamin D from sunlight and seafood, eggs and cod liver [oil] instead.
+  Instead, get vitamin D from sunlight and seafood, eggs and cod liver [oil].
 - **Iron** - All supplements and plant sources of iron have low bioavailability,
   and thus accumulates in your blood to a greater extent than heme iron. Avoid
   [iron](https://twitter.com/search?q=from%3Agrimhood%20free%20iron&src=typed_query)
-  supplements and get your iron from meat. Also see the section about iron in
-  the [modern dangers](modern-dangers.md#non-bioavailable-copper-and-iron) page.
-- **Omega-3** - Capsules / fish oil easily turns rancid. Get omega-3 (DHA/EPA)
-  from seafood and bivalves, preferably wild caught.
-- **Zinc** - Creates copper/iron imbalance. Get zinc from red meat and bivalves.
+  supplements and get your iron from meat instead. Also see the section about
+  iron in the [modern dangers](modern-dangers.md#non-bioavailable-copper-and-iron) page.
+- **Omega-3** - Capsules / fish oil easily turns rancid. Instead, get omega-3
+  (DHA/EPA) from seafood and bivalves, preferably wild caught.
+- **Zinc** - Can create copper/iron imbalance. Instead, get zinc from red meat
+  and bivalves.
 
 ### Miscellaneous
 
