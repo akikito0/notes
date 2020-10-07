@@ -1,5 +1,10 @@
 # Ancestry and diet
 
+Thoughts on how ancestry might be a significant in choosing one's optimal diet.
+
+I'll base the examples around someone with European ancestry here, since that's
+what I can relate to.
+
 ## Some essential European history
 
 There are branches of people that have diverged from each other and evolved
@@ -45,7 +50,7 @@ A few pages you should read or skim through are the following.
   - https://en.wikipedia.org/wiki/Western_Steppe_Herders
   - https://en.wikipedia.org/wiki/Early_European_Farmers
 
-## Rash decisions
+## My history with eczema
 
 Now I'll move on to the reason why I'm writing this.
 
@@ -58,30 +63,27 @@ and something else) and prescribed me special creams. They made the rash
 withdraw slightly but as soon as I stopped using them it got just as bad as
 before. I asked him if diet could have any effect, he said no. Was I doomed?
 
-Well, apparently not. He was wrong. I have ZERO issues now. How?!
+Well, apparently not. I have no rash anymore. How?!
 
 It's difficult to exactly pinpoint when the skin problems disappeared, but
-my inuition and experience tells me I'm on the right track here...
+my intuition and experience tells me I'm on the right track here...
 
-All it took was a significant diet change. I stopped eating potatoes, rice,
-cereal, vegetables (with some exceptions), and some more. I now eat mainly red
-meat, liver, seafood, eggs, dairy, and fermented foods like sauerkraut and
-kefir, with a moderate amount of fruit.
+I believe it was due to a quite significant diet change. I stopped eating
+potatoes, rice, cereal, vegetables (with some exceptions), and some more.
+Instead, I now eat mainly red meat, liver, seafood, eggs, dairy, and
+lacto-fermented foods, with a moderate amount of fruit.
 
-Strange, huh?
-
-Not really, when you also consider my ancestry.
-
-It turns out I'm primarily descended from nomadic peoples, steppe peoples.
-Analysis of my DNA suggests the following.
+Strange, huh? Well, perhaps not. This is just speculation from now on, but
+let's get back to the question of ancestry... As it turns out, I'm primarily
+descended from nomadic peoples. Analysis of my DNA suggests the following.
 
 ![](resources/eurogenes-ane-k7.png)
 
-In other words, about 80% hunter-gatherer / steppe.
+In other words, about 80% hunter-gatherer / steppe nomad.
 
 Why is this important?
 
-## Genetics matter, but not in the way you think
+## Genetics matter
 
 Let's talk about milk. It took many thousands of years for a significant amount
 of the European population to become able to drink cow's milk.
@@ -100,10 +102,10 @@ And then consider that potatoes came to Europe less than 500 years ago...
 
 And then consider that rice came to Europe between 1000-500 years ago...
 
-Then ask yourself... why the FUCK are potato and rice considered staples in
-Europe, when many Europeans can't even drink milk?! Potatoes are native to parts
-of western South America! Not Europe! They had thousands of years to adapt to
-eating potatoes and rice, while Europeans had not even a millenia to do it!
+Then ask yourself... why are potato and rice considered staples in Europe, when
+many Europeans can't even drink _milk_? Potatoes are native to parts of western
+South America! Not Europe! They had thousands of years to adapt to eating
+potatoes and rice, while Europeans had not even a millenia to do it!
 Don't believe me? Look it up!
 
 **Potato:**
@@ -114,6 +116,10 @@ Don't believe me? Look it up!
 > preserve well in the archaeological record, making identification difficult.
 >
 > [Wikipedia - History of the potato](https://en.wikipedia.org/wiki/History_of_the_potato)
+
+(Potatoes might actually be terrible for you. Check out
+[this link](http://www.allergiesexplained.com/pages/Potato%20Allergy%20and%20Intolerance.htm).
+I suspect my consumption of potatoes were a significant factor in causing my rash.)
 
 **Rice:**
 
@@ -132,6 +138,12 @@ Don't believe me? Look it up!
 > propagating to all the continents during the age of European exploration.
 >
 > [Wikipedia - Rice](https://en.wikipedia.org/wiki/Rice)
+
+Historically, Europeans probably ate some foods similar to these, at least
+during the most recent few thousands of years... tubers, grains similar to
+rice... however they were surely not staples, especially for
+hunter-gatherer/ANE people, in the way that animal foods, fruits and berries
+were.
 
 ### Where am I going with this?
 
@@ -157,8 +169,3 @@ Then, figure out what sort of diet was likely natural to your ancestors, or to
 the ancestors which constitute most of your genetic admixture.
 
 Then, experiment.
-
-Then, you might start thinking about how ancestry affects other things...
-
-(Potatoes might actually be fucking terrible for you. Check out
-[this link](http://www.allergiesexplained.com/pages/Potato%20Allergy%20and%20Intolerance.htm))
