@@ -92,7 +92,7 @@ Salt your food liberally. Eat liver and wild caught seafood.
   and thus accumulates in your blood to a greater extent than heme iron. Avoid
   [iron](https://twitter.com/search?q=from%3Agrimhood%20free%20iron&src=typed_query)
   supplements and get your iron from meat instead. Also see the section about
-  iron in the [modern dangers](modern-dangers.md#non-bioavailable-copper-and-iron) page.
+  iron in the [modern dangers](modern-dangers.md#iron-toxicity) page.
 - **Omega-3** - Capsules / fish oil easily turns rancid. Instead, get omega-3
   (DHA/EPA) from seafood and bivalves, preferably wild caught.
 - **Zinc** - Can create copper/iron imbalance. Instead, get zinc from red meat
