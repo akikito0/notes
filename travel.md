@@ -1,12 +1,6 @@
 # Travel
 
-Some might say that traveling abroad for leisure is an indulgent activity,
-that it's not "trad", that it's immoral (ask yourself why they would say that),
-that it's a sympton of the spirituo-geographical rootlessness so pervasive
-across the modern world. Maybe they're right, and maybe you agree, and as
-such maybe traveling isn't for you.
-
-Now that that's over with, let's move on to some practicalities...
+Notes on travel.
 
 ## Packing
 
@@ -62,7 +56,7 @@ Toothpaste, soap and other hygiene articles can be bought at the destination or
 brought with you, it's up to you.
 
 And you don't need sunglasses or sunscreen. See my page on
-[Modern dangers](modern-dangers.md).
+[Modern dangers](/health/modern-dangers.md).
 
 **How big a backpack do I need?**
 
