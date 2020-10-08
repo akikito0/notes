@@ -4,5 +4,6 @@
 - [Breathing](breathing.md)
 - [Miscellaneous notes](misc.md)
 - [Modern dangers](modern-dangers.md)
+- [Modern diseases](modern-diseases.md)
 - [Nutrition](nutrition.md)
 - [Travel](travel.md)
