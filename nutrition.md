@@ -37,8 +37,8 @@ potential deficiencies.
 - **Egg** - raw yolk, cooked white
 - **Egg** - fully raw, [do not mix with sugars](https://twitter.com/Grimhood/status/1285170461165277187)
 - **Lacto-fermented foods**
-  - Amazing for [gut health](misc.md#gut--brain-axis-gut-microbiota).
-  - Must be unpasteurized.
+  - Important for [gut health](misc.md#gut-brain-axis--gut-microbiota).
+  - Must be unpasteurized!
   - Examples are [sauerkraut](misc.md#sauerkraut), kefir and kimchi.
 - **Milk** - preferably unpasteurized, high fat, possibly even goat milk if locally available
 - **Fruit**
