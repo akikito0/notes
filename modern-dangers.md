@@ -139,8 +139,9 @@ tissue as "labile iron" acting as a catalyst for oxidative damage to your
 cells. This is what iron toxicity means.
 
 Like pretty much everyone today, you probably have accumulated lots of such iron
-over the years, especially if you are a male or a postmenopausal woman, as the
-monthly blood loss via menstruation helps remove the so-called free labile iron.
+over the years, especially if you are a male or a postmenopausal woman (if you
+are a young woman, the monthly blood loss via menstruation helps remove free
+labile iron, although iron toxicity is still a risk).
 
 So what can you do?
 
