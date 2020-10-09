@@ -23,6 +23,7 @@ Some more specific pointers:
 
 - ["How to reverse myopia"](https://twitter.com/ck_eternity_/status/1309285529649926144)
 - [Myopia - a modern yet reversible disease](https://gettingstronger.org/2014/08/myopia-a-modern-yet-reversible-disease/)
+- [FAQ for vision improvement by Hormetism](https://gettingstronger.org/2016/03/faq-for-vision-improvement-by-hormetism/)
 - Avoid [blue light](modern-dangers.md#blue-light) as much as possible
   - Use a blue light filter such as [f.lux](https://justgetflux.com/)
   - Spend time in sunlight
