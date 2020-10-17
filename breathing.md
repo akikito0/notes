@@ -57,6 +57,17 @@ and check out [this page](https://mailchi.mp/5b20e36b9db7/breatheless).
 ## Buteyko
 
 - [Buteyko-Breathing-Guide.pdf](resources/Buteyko-Breathing-Guide.pdf)
+- [/r/Buteyko Intro & FAQ](https://old.reddit.com/r/buteyko/comments/c8px11/start_here_intro_faq_of_rbuteyko/)
+
+### Exercises from the Buteyko Manual
+
+- Exercise 1 – Reducing depth of breathing through relaxation
+  - Approach 1 – Awareness of the breathing process
+  - Approach 2 – Extraordinary sense of well-being
+  - Approach 3 – Just hint at reduction of airflow
+- Exercise 2 – Holding your breath
+- Exercise 3 – Holding your breath during physical exercise
+- Exercise 4 – Many short breath-holds throughout the day
 
 ### How to do Buteyko breathing
 
