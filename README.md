@@ -6,4 +6,5 @@
 - [Modern dangers](modern-dangers.md)
 - [Modern diseases](modern-diseases.md)
 - [Nutrition](nutrition.md)
+- [Recipes](recipes.md)
 - [Travel](travel.md)
