@@ -37,3 +37,19 @@ Some more specific pointers:
 
 - Nutrition and gut health
 - Daily natural light exposure
+
+### Hair loss and graying
+
+Consider that in all animals except humans, hair loss is a sign of disease.
+
+Being genetically predisposed to hair loss doesn't mean it has to happen.
+In fact, you can slow, stop, or even reverse hair loss by preventing oxidative
+stress, inflammation, mineral dysregulation, and consequent hormonal
+dysregulation, which are all factors driving hair loss.
+
+The causes of the above are multiple. Lifestyle stress is a significant factor
+and should be avoided to the best of your ability. However keep in mind that
+if you improve your diet (see my [nutrition page](nutrition.md)) you
+will in turn improve your ability to handle stress.
+
+See the section about [free iron](modern-dangers.md#iron-toxicity).
