@@ -39,7 +39,7 @@ potential deficiencies.
 - **Lacto-fermented foods**
   - Important for [gut health](misc.md#gut-brain-axis--gut-microbiota).
   - Must be unpasteurized!
-  - Examples are [sauerkraut](misc.md#sauerkraut), kefir and kimchi.
+  - Examples are [sauerkraut](recipes.md#sauerkraut), [beet kvass](recipes.md#beet-kvass), kefir and kimchi.
 - **Milk** - preferably unpasteurized, high fat, possibly even goat milk if locally available
 - **Fruit**
   - No smoothies or juices; we are made to consume fruits _whole_.
